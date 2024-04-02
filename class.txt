@@ -1,0 +1,1 @@
+[{'classname': 'Thumb_up', 'width': 344, 'probability': 0.9994706511497498, 'height': 386, 'left': 121, 'top': 90}]
